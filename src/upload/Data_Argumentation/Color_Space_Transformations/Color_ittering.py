@@ -48,7 +48,9 @@ if __name__ == "__main__":
     original_image.save('ColorJitter')
 
     # Hiển thị ảnh gốc và ảnh đã xử lý
+
     cv2.imshow('Original Image', original_image.image)
     cv2.imshow('After Image', jittered_image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
+
