@@ -1,3 +1,0 @@
-IMAGE_PATH = r'Data\image\violet_evergarden.jpg'
-IMAGE_PATH2 = r'Data\image\Dong.jpg'
-SAVE_IMAGE_PATH = r'Data\image_save'

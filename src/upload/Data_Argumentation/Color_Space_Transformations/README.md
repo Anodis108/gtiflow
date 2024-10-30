@@ -1,1 +1,0 @@
-Thay đổi màu sắc ảnh
