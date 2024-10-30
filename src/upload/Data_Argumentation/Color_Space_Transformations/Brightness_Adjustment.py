@@ -32,7 +32,9 @@ if __name__ == "__main__":
     original_image.save('BrightnessAdjustment')
 
     # Hiển thị ảnh gốc và ảnh đã xử lý
-    cv2.imshow('Original Image', original_image.src)
+
+    cv2.imshow('Original Image', original_image.image)
     cv2.imshow('After Image', final_image)
     cv2.waitKey(0)
-    cv2.destroyAllWindows() # note
+    cv2.destroyAllWindows()
+

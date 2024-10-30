@@ -1,1 +1,3 @@
-Thay đổi màu sắc ảnh
+
+Thay đổi màu sắc
+
