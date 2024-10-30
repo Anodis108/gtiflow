@@ -1,0 +1,1 @@
+Bao gồm các cách thức biến đổi hình học
