@@ -1,0 +1,1 @@
+Cắt ảnh hình chữ nhật ở chỗ bất kỳ
