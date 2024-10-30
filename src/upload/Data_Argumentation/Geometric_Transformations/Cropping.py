@@ -26,7 +26,7 @@ if __name__ == "__main__":
     cropper.save('Cropping')
 
     # Hiển thị ảnh gốc và ảnh đã xử lý
-    cv2.imshow('Original Image', cropper.src)
+    cv2.imshow('Original Image', cropper.image)
     cv2.imshow('After Image', cropped_image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
