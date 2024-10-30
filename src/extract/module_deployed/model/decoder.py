@@ -1,7 +1,7 @@
 from torch import nn
 
-from ..blocks.decoder_layer import DecoderLayer
-from ..embedding.transformer_embedding import TransformerEmbedding
+from src.extract.module_deployed.blocks.decoder_layer import DecoderLayer
+from src.extract.module_deployed.embedding.transformer_embedding import TransformerEmbedding
 
 class Decoder(nn.Module):
     

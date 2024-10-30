@@ -1,8 +1,8 @@
 from torch import nn
 
-from ..layers.layer_norm import LayerNorm
-from ..layers.multi_head_attention import MultiHeadAttention
-from ..layers.position_wise_feed_forward import PositionwiseFeedForward
+from src.extract.module_deployed.layers.layer_norm import LayerNorm
+from src.extract.module_deployed.layers.multi_head_attention import MultiHeadAttention
+from src.extract.module_deployed.layers.position_wise_feed_forward import PositionwiseFeedForward
 
 class DecoderLayer(nn.Module):
     def __init__(self, d_model, ffn_hidden, n_head, drop_prob) -> None:
@@ -30,7 +30,7 @@ class DecoderLayer(nn.Module):
         
         if enc is not None:
             # 3. compute encoder - decoder attention
-            -x = x
+            _x = x
             x = self.enc_dec_attention(q=x , k=enc, v=enc, mask=src_mask)
             
             # 4. add and norm

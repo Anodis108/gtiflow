@@ -1,6 +1,6 @@
 from torch import nn
-from .PositionalEncoding_aHung import PositionalEncoding_aHung
-from .Layer_aHung import EncoderLayer_aHung, Decoderlayer_aHung
+from src.extract.aHung.PositionalEncoding_aHung import PositionalEncoding_aHung
+from src.extract.aHung.Layer_aHung import EncoderLayer_aHung, Decoderlayer_aHung
 
 class Transformer(nn.Module):
     def __init__(self, vocab_size, d_model, n_heads, n_layers) -> None:

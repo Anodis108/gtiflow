@@ -1,8 +1,8 @@
 from torch import nn
 
-from ..layers.layer_norm import LayerNorm
-from ..layers.multi_head_attention import MultiHeadAttention
-from ..layers.position_wise_feed_forward import PositionwiseFeedForward
+from src.extract.module_deployed.layers.layer_norm import LayerNorm
+from src.extract.module_deployed.layers.multi_head_attention import MultiHeadAttention
+from src.extract.module_deployed.layers.position_wise_feed_forward import PositionwiseFeedForward
 
 class EncoderLayer(nn.Module):
     def __init__(self, d_model, ffn_hidden, n_head, drop_prob) -> None:
