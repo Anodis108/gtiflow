@@ -1,2 +1,0 @@
-- Tác dụng: gọi xuống các file ở dưới
-- Chỉ là adapter chuyền data vào service

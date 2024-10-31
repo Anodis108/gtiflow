@@ -1,1 +1,0 @@
-các module có thể chọc đc đến các module deployed bên dưới
