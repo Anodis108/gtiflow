@@ -1,7 +1,7 @@
 import cv2
 import numpy as np  # Import numpy for type hinting
 
-from . import read_img, save_img
+from common import read_img, save_img
 
 class ContrastAdjustment:
     """
