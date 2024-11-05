@@ -1,7 +1,7 @@
 import cv2 
 import numpy as np
 
-from . import read_img, save_img
+from common import read_img, save_img
 
 class SaltAndPepperNoise:
     """
