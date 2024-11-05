@@ -1,6 +1,6 @@
 import cv2
 import numpy as np  # Importing numpy for type hinting
-from src.upload.common.config import SAVE_IMAGE_PATH, IMAGE_PATH
+from config import SAVE_IMAGE_PATH, IMAGE_PATH
 
 def read_img(img_path: str = IMAGE_PATH) -> np.ndarray:
     """
