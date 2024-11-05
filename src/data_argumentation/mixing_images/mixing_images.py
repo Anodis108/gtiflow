@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import random
 
-from . import read_img, save_img, IMAGE_PATH2
+from common import read_img, save_img, IMAGE_PATH2
 
 class ImageMixer:
     """
