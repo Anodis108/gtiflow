@@ -1,19 +1,20 @@
 # HAUI-HITAnodisO
-[![Github license](https://img.shields.io/github/license/username/project-repo.svg 'Github license')](https://github.com/username/project-repo/blob/master/LICENSE)
-[![Open issues](https://img.shields.io/github/issues/username/project-repo.svg 'Open issues')](https://github.com/username/project-repo/issues)
-[![Open Pull Requests](https://img.shields.io/github/issues-pr/username/project-repo.svg 'Open Pull Requests')](https://github.com/username/project-repo/pulls)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/username/project-repo.svg 'Commit activity')](https://github.com/username/project-repo/graphs/commit-activity)
-[![GitHub contributors](https://img.shields.io/github/contributors/username/project-repo.svg 'Github contributors')](https://github.com/username/project-repo/graphs/contributors)
+
+[![Github license](https://img.shields.io/github/license/Anodis108/HAUI-HITAnodisO 'Github license')](https://github.com/Anodis108/HAUI-HITAnodisO/blob/develop/LICENSE)
+[![Open issues](https://img.shields.io/github/issues/Anodis108/HAUI-HITAnodisO 'Open issues')](https://github.com/Anodis108/HAUI-HITAnodisO/issues)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/Anodis108/HAUI-HITAnodisO 'Open Pull Requests')](https://github.com/Anodis108/HAUI-HITAnodisO/pulls)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/Anodis108/HAUI-HITAnodisO 'Commit activity')](https://github.com/Anodis108/HAUI-HITAnodisO/graphs/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/Anodis108/HAUI-HITAnodisO 'Github contributors')](https://github.com/Anodis108/HAUI-HITAnodisO/graphs/contributors)
 ![](./docs/images/banner.png)
 
 # Ứng Dụng Một Cửa Hỗ Trợ Đóng Dấu Đơn Từ [![Demo](https://img.shields.io/badge/Demo-2ea44f?style=for-the-badge)](http://demo-link.com) [![Documentation](https://img.shields.io/badge/Documentation-blue?style=for-the-badge)](https://project-docs.com)
 
-<a href="https://github.com/username/project-repo/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=%F0%9F%90%9B+Bug+Report%3A+">Bug Report ⚠️</a>
-<a href="https://github.com/username/project-repo/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=RequestFeature:">Request Feature 👩‍💻</a>
+<a href="https://github.com/Anodis108/HAUI-HITAnodisO/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=">Bug Report ⚠️</a>
+<a href="https://github.com/Anodis108/HAUI-HITAnodisO/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=">Request Feature 👩‍💻</a>
 
 Ứng dụng hỗ trợ đóng dấu và xử lý các đơn từ trong hệ thống hành chính, áp dụng công nghệ LCDP để giảm thiểu thời gian xử lý thủ công và nâng cao hiệu quả công việc. 
 
-### Mục tiêu:
+### Mục tiêu: 
 - Xây dựng một ứng dụng giúp tự động hóa việc đóng dấu lên các đơn từ hành chính.
 - Ứng dụng sử dụng công nghệ Low-Code Development Platform (LCDP) để dễ dàng cấu hình và triển khai.
 - Giảm bớt thủ tục hành chính, giúp tiết kiệm thời gian và chi phí cho các cơ quan chức năng.
@@ -31,14 +32,15 @@
 7. [🙌 Đóng Góp](#🙌-đóng-góp-cho-dự-án)
 8. [📝 License](#📝-license)
 
+
 ## Giới Thiệu
 
-- **Ứng dụng một cửa** giúp các cơ quan hành chính đóng dấu nhanh chóng lên các đơn từ, chứng từ khi cần thiết, mà không cần đến thao tác thủ công.
+- [Ứng dụng một cửa]() giúp các cơ quan hành chính đóng dấu nhanh chóng lên các đơn từ, chứng từ khi cần thiết, mà không cần đến thao tác thủ công.
 - **Công nghệ LCDP** cho phép các công cụ cấu hình dễ dàng và triển khai nhanh chóng mà không cần phải lập trình nhiều.
 - Ứng dụng này giúp tối ưu hóa quy trình làm việc và tăng tính chính xác trong việc xử lý văn bản.
 
 ## Chức Năng Chính
-
+# Cần xem lại
 Dự án tập trung vào các chức năng chính sau:
 
 - 🖼️ **Chụp và nhận diện các đơn từ** từ hình ảnh hoặc tệp PDF.
@@ -213,8 +215,8 @@ Mọi đóng góp của các bạn đều được trân trọng, đừng ngần
 
 ## Liên hệ
 
--   Phạm Đăng Đông: 
--   Nguyễn Thị Trang:
+-   Phạm Đăng Đông: dong10082003@gmail.com
+-   Nguyễn Thị Trang: nguyenthitrang.ttd@gmail.com
 -   Đỗ Trung Hòa:
 -   Phạm Văn Hà:
 -   Nguyễn Xuân Hoàng:
